@@ -1,5 +1,5 @@
 int simon[8]={0,0,0,0,0,0,0,0};
-
+//Test
 void setup() {
   // put your setup code here, to run once:
 for(int i=0;i<=7;i++) {simon[i]= random(1,8);}
